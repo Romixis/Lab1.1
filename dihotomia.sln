@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30503.244
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab00", "lab00\lab00.csproj", "{AF585FE8-78DD-472B-AC5E-5ADB71C8201A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "dihotomia\Lab1.csproj", "{D9A83E8F-DD82-4D39-A2BC-41A0FA867851}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF585FE8-78DD-472B-AC5E-5ADB71C8201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF585FE8-78DD-472B-AC5E-5ADB71C8201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF585FE8-78DD-472B-AC5E-5ADB71C8201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF585FE8-78DD-472B-AC5E-5ADB71C8201A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A83E8F-DD82-4D39-A2BC-41A0FA867851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A83E8F-DD82-4D39-A2BC-41A0FA867851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A83E8F-DD82-4D39-A2BC-41A0FA867851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A83E8F-DD82-4D39-A2BC-41A0FA867851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {00D17CF8-D2A7-4410-BF43-61000C87CDCD}
+		SolutionGuid = {D7C22D95-B324-411C-BE50-4B38EB753429}
 	EndGlobalSection
 EndGlobal
